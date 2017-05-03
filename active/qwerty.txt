@@ -1,0 +1,8 @@
+[=]>[`]
+[lshift]>[=]
+[lalt]>[lctrl]
+[end]>[lshift]
+[lctrl]>[rwin]
+[rctrl]>[rwin]
+[rwin]>[lalt]
+[pdown]>[lshift]
