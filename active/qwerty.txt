@@ -1,7 +1,6 @@
 [=]>[`]
 [lshift]>[=]
 [scroll]>[shutdn]
-[kp=]>[kp=mac]
 [lalt]>[rwin]
 [home]>[lshift]
 [end]>[lshift]
