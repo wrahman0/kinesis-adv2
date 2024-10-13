@@ -12,3 +12,5 @@
 [kp-rwin]>[kp-rctrl]
 [pup]>[rshift]
 [pdown]>[lshift]
+[escape]>[caps]
+[caps]>[escape]
